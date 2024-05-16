@@ -49,12 +49,8 @@ const AdoniProfile = {
 ![](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
