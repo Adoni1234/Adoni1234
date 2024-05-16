@@ -7,9 +7,9 @@ In my spare time, I'm focused on mastering React and exploring Next.js, diving d
 ```javascript
 const AdoniProfile = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "PHP", "C++"],
-  tools: ["Angular", ".NET", "React", "Node", "Storybook", "Styled-Components", "Jest", "Docker", "Figma", "Canva"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP", "C++"],
+  tools: ["Angular", ".NET", "React", "Node", "Jest", "Docker", "Figma", "Canva"],
+  architecture: ["event-driven", "design system pattern"],
   challenge: "Building a Microservices app with .NET and NextJS from scratch"
 }
 ```
@@ -33,30 +33,22 @@ const AdoniProfile = {
 ## Software and tools
 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
 ## Current Learning Journey
-### 🌱 Current Learning Journey
+## 🌱 Current Learning Journey
 Below, I show you the topics I am currently focused on, always looking to expand my skills and knowledge in key areas of modern technology:
 
-#### 🖥️ React and Next.js
+#### 🖥️ React and Next.js 🤖
 **Focusing on SPA and SSR architectures** to enhance user experience and performance. These technologies allow me to create faster and more efficient applications, significantly improving user interaction.
 
-#### 🏗️ Microservices with .NET
-**Building scalable and maintainable services** using modern back-end frameworks. I am developing my ability to design systems that are not only robust but also flexible and easy to maintain over the long term.
 
 ## Current Projects
 
