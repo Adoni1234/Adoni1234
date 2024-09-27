@@ -7,10 +7,9 @@ In my spare time, I'm focused on mastering React and exploring Next.js, diving d
 ```javascript
 const AdoniProfile = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP", "C++"],
-  tools: ["Angular", ".NET", "React", "Node", "Jest", "Docker", "Figma", "Canva"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP", "C#"],
+  tools: ["Angular", ".NET", "React", "NextJs","React Native", "Node", "Figma", "Canva"],
   architecture: ["event-driven", "design system pattern"],
-  challenge: "Building a Microservices app with .NET and NextJS from scratch"
 }
 ```
 
