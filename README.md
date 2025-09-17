@@ -61,6 +61,6 @@ Below, I show you the topics I am currently focused on, always looking to expand
 
 ## Stats
 
-| <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Adoni1234&theme=holi-theme" alt="GitHub Streak" /></a> | <a href="https://github.com/Adoni1234"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adoni1234&show_icons=true&theme=tokyonight" alt="Carlos's GitHub Stats" /></a> |
+| <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=Adoni1234&theme=holi-theme" alt="GitHub Streak" /></a> | <a href="https://github.com/Adoni1234"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adoni1234&show_icons=true&theme=tokyonight" alt="Adoni's GitHub Stats" /></a> |
 | ------------- | ------------- |
 
